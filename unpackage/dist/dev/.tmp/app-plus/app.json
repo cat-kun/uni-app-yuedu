@@ -5,7 +5,6 @@
     "pages/my/my",
     "pages/login/login"
   ],
-  "subPackages": [],
   "window": {
     "navigationBarTextStyle": "black",
     "navigationBarTitleText": "悦读",
@@ -36,6 +35,13 @@
       }
     ]
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap37.json"
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "yuedu",
+  "compilerVersion": "2.3.7",
+  "usingComponents": {}
 }

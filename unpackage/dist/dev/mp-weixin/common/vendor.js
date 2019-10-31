@@ -8406,7 +8406,7 @@ module.exports = {"_from":"@dcloudio/uni-stat@next","_id":"@dcloudio/uni-stat@2.
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/index/index": { "usingComponents": {} }, "pages/write/write": { "usingComponents": {} }, "pages/my/my": { "usingComponents": {} }, "pages/login/login": {} }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "悦读", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
+Object.defineProperty(exports, "__esModule", { value: true });exports.default = void 0;var _default = { "pages": { "pages/index/index": {}, "pages/write/write": {}, "pages/my/my": {}, "pages/login/login": {} }, "globalStyle": { "navigationBarTextStyle": "black", "navigationBarTitleText": "悦读", "navigationBarBackgroundColor": "#F8F8F8", "backgroundColor": "#F8F8F8" } };exports.default = _default;
 
 /***/ }),
 /* 8 */
